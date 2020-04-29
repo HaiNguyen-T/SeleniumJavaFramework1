@@ -1,0 +1,19 @@
+[DEBUG] 2020-04-16 13:51:08.623 [main] PropertiesFileWithTestNG - Get browser name from properties file
+[DEBUG] 2020-04-16 13:58:07.495 [main] PropertiesFileWithTestNG - Debug message
+[INFO ] 2020-04-16 13:59:05.138 [main] PropertiesFileWithTestNG - Get browser name from properties file
+[DEBUG] 2020-04-16 13:59:05.143 [main] PropertiesFileWithTestNG - Debug message
+[INFO ] 2020-04-16 14:00:00.851 [main] PropertiesFileWithTestNG - Get browser name from properties file
+[DEBUG] 2020-04-16 14:00:00.857 [main] PropertiesFileWithTestNG - Debug messagechrome
+[INFO ] 2020-04-16 14:03:40.462 [main] PropertiesFileWithTestNG - Get browser name from properties file
+[DEBUG] 2020-04-16 14:03:40.468 [main] PropertiesFileWithTestNG - Debug message Firefox
+[INFO ] 2020-04-16 14:09:06.173 [main] PropertiesFileWithTestNG - Get browser name from properties file
+[DEBUG] 2020-04-16 14:09:06.178 [main] PropertiesFileWithTestNG - Debug message InternetExplorer
+[INFO ] 2020-04-16 14:58:18.687 [main] PropertiesFileWithTestNG - Browser name is null
+[INFO ] 2020-04-16 15:12:35.159 [main] PropertiesFileWithTestNG - Browser name is null
+[INFO ] 2020-04-16 15:19:31.424 [main] PropertiesFileWithTestNG - Browser name is null
+[INFO ] 2020-04-16 15:24:36.074 [main] PropertiesFileWithTestNG - Browser name is chrome
+[INFO ] 2020-04-16 15:24:43.317 [main] PropertiesFileWithTestNG - Browser name is chrome
+[INFO ] 2020-04-16 15:25:18.355 [main] PropertiesFileWithTestNG - Browser name is chrome
+[INFO ] 2020-04-16 15:25:25.392 [main] PropertiesFileWithTestNG - Browser name is chrome
+[INFO ] 2020-04-17 09:48:41.741 [main] PropertiesFileWithTestNG - Browser name is chrome
+[INFO ] 2020-04-17 09:48:49.931 [main] PropertiesFileWithTestNG - Browser name is chrome
